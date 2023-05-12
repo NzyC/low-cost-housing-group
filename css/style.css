@@ -1408,6 +1408,12 @@ a:hover {
   text-align: right;
 }
 
+.about-vid {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
 .about-img-box {
   padding-left: 1rem;
   position: relative;
@@ -1653,6 +1659,10 @@ footer .credits {
 .btn.btn-b-n:hover {
   background-color: #b07c22;
   color: #ffffff;
+}
+
+.contact-box {
+  margin: 30px;
 }
 
 @media (min-width: 576px) {
